@@ -1,0 +1,40 @@
+.header{
+    height: 80px;
+    background-color:  white;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+    align-items: center;
+    box-shadow: 10px 5px 5px rgba(128, 128, 128, 0.458);
+}
+
+nav.header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 30px;
+}
+
+nav.header a:hover{
+    color: orange;
+}
+
+@media screen and (max-width:576px) {
+   
+    .header{
+     height: auto;
+     flex-direction: column;
+     width:100%;
+     padding: 0;
+     margin: 0;
+     box-shadow: none;
+     text-align: center;
+     
+     
+    }
+    .link-part{
+        flex-direction: column;
+        
+    }
+  }
+

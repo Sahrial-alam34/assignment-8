@@ -1,0 +1,46 @@
+.side-card {
+    margin-right: 70px;
+    margin-top: 50px;
+    position: sticky;
+    top: 0;
+}
+
+.spent-time {
+    border: 2px solid #6047EC;
+    width: 411px;
+    height: 80px;
+    border-radius: 8px;
+    background-color: rgba(96, 71, 236, 0.1);
+    text-align: center;
+    font-family: 'Exo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 160%;
+    color: #6047EC;
+    margin-bottom: 20px;
+}
+
+.bookmark-blog {
+    width: 411px;
+    height: 700px;
+    background-color: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+    text-align: center;
+}
+
+
+
+@media screen and (max-width:576px) {
+   
+    .side-card,.spent-time,.bookmark-blog{
+     
+        margin-right: 0;
+     
+    }
+    .spent-time,.bookmark-blog,.bookmark-blog-name{
+        width:auto;
+
+    }
+   
+  }

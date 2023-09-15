@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "blogTitle": "Learn About Python",
+      "blogCoverImg": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+      "description":"Python is one of the most popular programming languages in use today, so I went on a journey to find the best Python blogs on the internet. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.",
+      "authorName": "Mr. Rahim",
+      "authorImg": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "readTime": 15,
+      "publishDate": "15th March (15 Days ago)"
+    },
+    {
+      "id": 2,
+      "blogTitle": "Learn About PHP",
+      "blogCoverImg": "https://images.unsplash.com/photo-1599507593499-a3f7d7d97667?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description":"PHP is one of the most commonly used programming languages for web development, so I set out to find the best PHP blogs actively publishing content today. Each of these sites demonstrates technical expertise, is relatively easy to comprehend, publishes content consistently, and has stood the test of time.",
+      "authorName": "Mr. Korim",
+      "authorImg": "https://images.unsplash.com/photo-1547425260-76bcadfb4f2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "readTime": 25,
+      "publishDate": "20th March (10 Days ago)"
+    },
+    {
+      "id": 3,
+      "blogTitle": "Basic Backend MySQL",
+      "blogCoverImg": "https://images.unsplash.com/photo-1662026911591-335639b11db6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1162&q=80",
+      "description":"In the world of computing, we need to constantly store and retrieve our data to and from the database. The data can be stored in the form of databases, file structures or directories.We use various database software to store and extract the results to and from our databases. These include MySQL, MS Access, Oracle, PostgreSQL, IBM DB2, MongoDB among others. Among these, MySQL is the most commonly used database system used to store and retrieve data.",
+      "authorName": "Mr. Rana",
+      "authorImg": "https://images.unsplash.com/photo-1599566150163-29194dcaad36?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "readTime": 20,
+      "publishDate": "10th March (20 Days ago)"
+    },
+    {
+      "id": 4,
+      "blogTitle": "Basic C++",
+      "blogCoverImg": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "description":"Software development in C++ notoriously has a steep learning curve, but taking the time to learn this language will do wonders for your career and will set you apart from other developers. You’ll have an easier time picking up new languages, you’ll form real problem-solving skills, and build a solid foundation on the fundamentals of programming and software engineering.",
+      "authorName": "Mr. Masud",
+      "authorImg": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "readTime": 35,
+      "publishDate": "5th March (25 Days ago)"
+    }
+   
+  
+  
+  ]
